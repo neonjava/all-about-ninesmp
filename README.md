@@ -136,6 +136,10 @@ Thank you for taking the time to read.
 
 This document contains the technical timeline, development details, ownership explanations, and additional context intended for developers and experienced server owners.
 
+➡  **[evidence.md](./evidence.md)**
+
+This document contains factual evidence of unauthorized publishing of my work after my departure, including Planet Minecraft posts, Google Drive distribution, and the filed legal report.
+
 ---
 
 **Neon (NeonJava)**
